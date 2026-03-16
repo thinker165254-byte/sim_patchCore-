@@ -1,0 +1,7 @@
+opencv-python==4.9.0.80
+scikit-learn==1.3.0
+torch==2.1.0
+torchvision==0.16.0
+faiss-cpu==1.7.4  # 或 faiss-gpu==1.7.4（根据环境选择）
+numpy==1.26.0
+Pillow==10.1.0
